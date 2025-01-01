@@ -7,7 +7,7 @@
   [![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=a2-nX-kAAAAJ)
 </div>
 
-I'm a Research Associate at Fraunhofer AISEC and PhD candidate at TUM, focusing on LLM security, autonomous AI agents, and private machine learning. When not breaking AI systems, you'll find me experimenting with coffee brewing or tinkering with aeroponics.
+I'm a Research Associate at Fraunhofer AISEC and PhD candidate at TUM, focusing on LLM security, autonomous AI agents, and private machine learning.
 
 ## Random XKCD of the Day
 <div align="center">
@@ -26,10 +26,4 @@ I'm a Research Associate at Fraunhofer AISEC and PhD candidate at TUM, focusing 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,linux" />
-</div>
-
----
-
-<div align="center">
-  <sub>🎯 Currently focused on making AI systems more secure and trustworthy</sub>
 </div> 
