@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Research+Associate+@+Fraunhofer+AISEC;PhD+Candidate+@+TUM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=470&lines=Research+Associate+@+Fraunhofer+AISEC;PhD+Candidate+@+TUM" alt="Typing SVG" />
   
   [![Website](https://img.shields.io/badge/Website-paulsava.github.io-blue?style=flat-square&logo=github)](https://paulsava.github.io)
   [![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=a2-nX-kAAAAJ)
