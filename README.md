@@ -21,48 +21,39 @@ class Paul:
         return "Making AI systems more secure and trustworthy"
 ```
 
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated by GitHub Actions -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Today's XKCD
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://imgs.xkcd.com/comics/random_number.png">
-    <img alt="Daily XKCD Comic" src="https://imgs.xkcd.com/comics/random_number.png" width="400">
-  </picture>
+  <img src="https://imgs.xkcd.com/comics/random_number.png" width="400" />
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulsava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulsava&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulsava&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulsava&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Weekly Coding Stats
+## Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## Current Stack
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulsava&theme=tokyonight&hide_border=true" />
-</div>
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,linux,vscode,vim" />
-</div>
-
-## Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-## Latest Blog Posts
-<div align="center">
-  <a href="https://paulsava.github.io/blog.html">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@paulsava/0" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=paulsava&color=blue&style=flat-square" alt="Profile views"/>
-  
-  <sub>Last updated by GitHub Actions</sub>
-</div>
+</div> 
