@@ -9,6 +9,14 @@
 
 I'm a Research Associate at Fraunhofer AISEC and PhD candidate at TUM, focusing on LLM security, autonomous AI agents, and private machine learning.
 
+## Research Areas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Adversarial_ML-2b3238?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM_Security-2b3238?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Private_ML-2b3238?style=for-the-badge"/>
+</div>
+
 ## Random XKCD of the Day
 <div align="center">
   <a href="https://c.xkcd.com/random/comic/">
@@ -16,14 +24,13 @@ I'm a Research Associate at Fraunhofer AISEC and PhD candidate at TUM, focusing 
   </a>
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulsava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div> 
